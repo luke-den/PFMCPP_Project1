@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       hand
+//  action 1:   the hand opens
+hand.open();
+//  action 2:   the hand waves
+hand.wave();
+//  action 3:   the hand makes a fist
+hand.makeFist();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       eyes
+//  action 1:   the eyes blink
+eyes.blink();
+//  action 2:   the eyes close
+eyes.close();
+//  action 3:   the eyes open wide
+eyes.openWide();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       horse
+//  action 1:   the horse trots
+horse.trot();
+//  action 2:   the horse gallops
+horse.gallop();
+//  action 3:   the horse bucks 
+horse.buck();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       student     
+//  action 1:   the students scratches head
+student.scratchHead();
+//  action 2:   the student asks a question
+student.askQuestion();
+//  action 3:   the student learns the answer
+student.learnAnswer();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       tennis racket
+//  action 1:   the tennis racket hits the ball
+tennisRacket.hitBall();
+//  action 2:   the tennis racket scrapes the ground
+tennisRacket.scrapeGround();
+//  action 3:   the tennis racket breaks a string 
+tennisRacket.breakString();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       hammer
+//  action 1:   the hammer hits a nail 
+hammer.hitNail();
+//  action 2:   the hammer removes a nail
+hammer.removeNail();
+//  action 3:   the hammer hits thumb
+hammer.hitThumb();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       airplane
+//  action 1:   the airplane takes off
+airplane.takeOff();
+//  action 2:   the airplane lands 
+airplane.land();
+//  action 3:   the airplane does a barrel roll
+airplane.doBarrelRoll();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       speakers
+//  action 1:   the speakers play music
+speakers.playMusic();
+//  action 2:   the speakers play music louder
+speakers.playMusicLouder();
+//  action 3:   the speakers play music quieter
+speakers.playMusicQuieter();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       guitar
+//  action 1:   the guitar fills room with sound
+guitar.fillRoomWithSound();
+//  action 2:   the guitar resonates
+guitar.Resonate();
+//  action 3:   the guitar gets chicks
+guitar.getChicks();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       doctor 
+//  action 1:   the doctor checks heartbeat 
+doctor.checkHeartbeat();
+//  action 2:   the doctor taps knee three times
+doctor.tapKneeThreeTimes();
+//  action 3:   the doctor prescribes medication
+doctor.prescribeMedication();
 
 
 #endif
