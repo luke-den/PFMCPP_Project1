@@ -68,13 +68,13 @@ eyes.close();
 //  action 3:   the eyes open wide
 eyes.openWide();
 //  3)
-//  Noun:       horse
-//  action 1:   the horse trots
-horse.trot();
-//  action 2:   the horse gallops
-horse.gallop();
-//  action 3:   the horse bucks 
-horse.buck();
+//  Noun:       apple tree 
+//  action 1:   the apple tree grows fruit
+appleTree.growFruit();
+//  action 2:   the apple tree drops fruit
+appleTree.dropFruit();
+//  action 3:   the apple tree sways in the wind 
+appleTree.swayInWind();
 //  4)
 //  Noun:       student     
 //  action 1:   the students scratches head
